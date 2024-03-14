@@ -1,4 +1,4 @@
-# React + TypeScript + RTK teemplate
+# React + TypeScript + RTK template
 
 This template provides a minimal setup to get React/TS/RTK working in a right way.
 
